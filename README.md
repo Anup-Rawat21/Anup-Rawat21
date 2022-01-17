@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning new skills and doing that thing which Add new value in my Life.
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on live Project
-- 📫 How to reach me ..... i_am_maverick_21  write me here.
+- 📫 How to reach me .....  i_am_maverick_21  .....  write me here.
 
 <!---
 Anup-Rawat21/Anup-Rawat21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
